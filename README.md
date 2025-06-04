@@ -1,2 +1,6 @@
 # 1337-stereo-discord
-This is a discord negro stereo for 1337 haxor UwU
+## Installation
+
+**To setup you will need betterdiscord install urself**
+- **Then the .plugins.js put it in the betterdiscord plugins file (AppData\Roaming\BetterDiscord\plugins) **
+- Thebn
